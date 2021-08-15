@@ -1,0 +1,12 @@
+{
+  "name": "STREAMS",
+  "version": "1.0.0",
+  "main": "index.js",
+  "type": "module",
+  "license": "MIT",
+  "dependencies": {
+    "request": "^2.88.2",
+    "slit": "^0.1.1",
+    "split": "^1.0.1"
+  }
+}
